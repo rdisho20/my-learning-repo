@@ -11,3 +11,6 @@ Important steps for git workflow:
 6. Review previous changes with git log
 
 Editing a new line for testing 'git commit --amend'
+
+## Table of Contents
+- exp_file.txt
