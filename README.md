@@ -14,3 +14,6 @@ Editing a new line for testing 'git commit --amend'
 
 ## Table of Contents
 - exp_file.txt
+
+### Remote Modifications
+The following is a ==remote edit== directly on github.com
