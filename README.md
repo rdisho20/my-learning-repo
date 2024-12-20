@@ -19,3 +19,5 @@ Editing a new line for testing 'git commit --amend'
 The following is a ==remote edit== directly on github.com
 
 Another edit to test command 'git pull --ff-only' w/o using 'git fetch' first to check changes
+
+One more change to test 'git pull origin main' output w/o using 'git fetch' first
